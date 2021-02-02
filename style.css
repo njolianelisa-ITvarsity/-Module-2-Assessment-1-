@@ -152,11 +152,11 @@ a.info-box{
       text-align : center;
 }
 
-/*===================== INFO BOX FULL =============*/
+/*===================== WEATHER =============*/
 
 img.info-box-weather-icon{
      height : 30px;
-     width  : 30px:important:;
+     width  : 30px:important;
      margin : 10px;
      float  :left; 
 }
